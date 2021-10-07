@@ -1,0 +1,10 @@
+[
+    {
+        "tenant": "V9M", 
+        "url": "http://localhost:9081/ws/"
+    },
+    {
+        "tenant": "VK9", 
+        "url": "http://localhost:9082/ws/"
+    }
+]
